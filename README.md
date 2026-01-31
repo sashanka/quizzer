@@ -49,15 +49,44 @@ You must configure the following variables in `server/.env` for the application 
 ```ini
 PORT=3000
 
-# Gemini API Key (Get from Google AI Studio: https://aistudio.google.com/)
+# Gemini API Key
 GEMINI_API_KEY=your_gemini_api_key_here
 
-# Google OAuth Credentials (Get from Google Cloud Console: https://console.cloud.google.com/)
-# Required for Google Forms API access
+# Google OAuth Credentials
 GOOGLE_CLIENT_ID=your_client_id.apps.googleusercontent.com
 GOOGLE_CLIENT_SECRET=your_client_secret
 GOOGLE_REDIRECT_URI=http://localhost:3000/api/auth/google/callback
 ```
+
+### How to get API Keys
+
+#### 1. Gemini API Key
+1.  Go to [Google AI Studio](https://aistudio.google.com/).
+2.  Click **"Get API key"** in the sidebar.
+3.  Click **"Create API key"** and copy the string.
+4.  Paste it into `.env` as `GEMINI_API_KEY`.
+
+#### 2. Google OAuth Credentials & Forms API
+1.  Go to the [Google Cloud Console](https://console.cloud.google.com/).
+2.  **Create a new project** (or select an existing one).
+3.  **Enable APIs**:
+    -   Go to **APIs & Services > Library**.
+    -   Search for **"Google Forms API"** and enable it.
+    -   Search for **"Google Drive API"** and enable it.
+4.  **Configure OAuth Consent Screen**:
+    -   Go to **APIs & Services > OAuth consent screen**.
+    -   Select **External** (for testing) or **Internal** (if Google Workspace).
+    -   Fill in required fields (App name: "Quizzer", User support email, etc.).
+    -   Add **Scopes**: `.../auth/forms.body` and `.../auth/drive.file`.
+    -   Add **Test Users**: Add your own Google email address so you can log in.
+5.  **Create Credentials**:
+    -   Go to **APIs & Services > Credentials**.
+    -   Click **Create Credentials > OAuth client ID**.
+    -   Application type: **Web application**.
+    -   Name: "Quizzer Client".
+    -   **Authorized redirect URIs**: Add `http://localhost:3000/api/auth/google/callback`.
+    -   Click **Create**.
+6.  Copy the **Client ID** and **Client Secret** into your `.env` file.
 
 3.  **Setup Client:**
     ```bash
