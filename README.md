@@ -40,7 +40,24 @@ This is a monorepo containing both the client and server applications:
     npm install
     cp .env.example .env
     ```
-    *Edit `.env` with your API keys and credentials.*
+    *Edit `server/.env` with your API keys and credentials.*
+
+### Configuration (.env)
+
+You must configure the following variables in `server/.env` for the application to work:
+
+```ini
+PORT=3000
+
+# Gemini API Key (Get from Google AI Studio: https://aistudio.google.com/)
+GEMINI_API_KEY=your_gemini_api_key_here
+
+# Google OAuth Credentials (Get from Google Cloud Console: https://console.cloud.google.com/)
+# Required for Google Forms API access
+GOOGLE_CLIENT_ID=your_client_id.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET=your_client_secret
+GOOGLE_REDIRECT_URI=http://localhost:3000/api/auth/google/callback
+```
 
 3.  **Setup Client:**
     ```bash
