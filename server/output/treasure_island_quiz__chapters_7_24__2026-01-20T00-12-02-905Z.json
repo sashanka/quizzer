@@ -1,0 +1,1031 @@
+{
+  "title": "Treasure Island Quiz (Chapters 7-24)",
+  "sections": [
+    {
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Where does Jim go in Chapter 7?",
+          "answer": "Bristol",
+          "options": [
+            "London",
+            "Bristol",
+            "Savannah",
+            "Edinburgh"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "The Hispaniola was the name of the ship they sailed on.",
+          "answer": "True",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What did Long John Silver do to get to sea again?",
+          "answer": "Be a ship’s cook",
+          "options": [
+            "Be a sailor",
+            "Be a captain",
+            "Be a ship’s cook",
+            "Be a pirate"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "Mr. Arrow was the captain of the Hispaniola.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Where was the Spyglass tavern located?",
+          "answer": "Bristol",
+          "options": [
+            "London",
+            "Bristol",
+            "Savannah",
+            "Edinburgh"
+          ]
+        }
+      ],
+      "description": "Quiz questions based on Chapters 7 of Treasure Island.",
+      "title": "Chapter 7: I Go to Bristol"
+    },
+    {
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "What was the name of the tavern where Jim meets Long John Silver?",
+          "answer": "The Spyglass",
+          "options": [
+            "The Admiral Benbow",
+            "The Spyglass",
+            "The Old Sailor",
+            "The Black Dog"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "Long John Silver had two legs.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Who did Jim recognize at the Spyglass tavern as a former visitor to the Admiral Benbow?",
+          "answer": "Black Dog",
+          "options": [
+            "Black Dog",
+            "Blind Pew",
+            "Captain Flint",
+            "Israel Hands"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "Long John Silver was immediately considered trustworthy by the squire and doctor.",
+          "answer": "True",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What did Jim find in the tavern?",
+          "answer": "A man missing two fingers",
+          "options": [
+            "A treasure map",
+            "A message from Captain Smollett",
+            "A man missing two fingers",
+            "A parrot"
+          ]
+        }
+      ],
+      "description": "Quiz questions based on Chapter 8 of Treasure Island.",
+      "title": "Chapter 8: At the Sign of the “Spyglass”"
+    },
+    {
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "What did Captain Smollett tell the squire and doctor that he did not like?",
+          "answer": "The cruise",
+          "options": [
+            "The treasure",
+            "The crew",
+            "The cruise",
+            "Long John Silver"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "Captain Smollett liked the crew.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Where did Captain Smollett want to store the arms and powder?",
+          "answer": "Under the cabin",
+          "options": [
+            "In the forecastle",
+            "Under the cabin",
+            "In the hold",
+            "In the captain's quarters"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "The captain knew about the map of the island before the start of the voyage.",
+          "answer": "True",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Who was the mate on the Hispaniola?",
+          "answer": "Mr. Arrow",
+          "options": [
+            "Long John Silver",
+            "Mr. Arrow",
+            "Job Anderson",
+            "Israel Hands"
+          ]
+        }
+      ],
+      "description": "Quiz questions based on Chapter 9 of Treasure Island.",
+      "title": "Chapter 9: Powder and Arms"
+    },
+    {
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "What was the name of the ship they sailed on?",
+          "answer": "Hispaniola",
+          "options": [
+            "The Admiral Benbow",
+            "Hispaniola",
+            "Walrus",
+            "Spyglass"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "Mr. Arrow proved to be a good officer.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Who took over as mate after Mr. Arrow disappeared?",
+          "answer": "Job Anderson",
+          "options": [
+            "Long John Silver",
+            "Job Anderson",
+            "Israel Hands",
+            "Captain Smollett"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "Long John Silver’s parrot knew about the treasure.",
+          "answer": "True",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What did the parrot say?",
+          "answer": "Pieces of eight",
+          "options": [
+            "Yo ho ho",
+            "Land ho!",
+            "Pieces of eight",
+            "Avast there!"
+          ]
+        }
+      ],
+      "description": "Quiz questions based on Chapter 10 of Treasure Island.",
+      "title": "Chapter 10: The Voyage"
+    },
+    {
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Where did Jim overhear the conversation about the treasure?",
+          "answer": "The apple barrel",
+          "options": [
+            "In the cabin",
+            "On the deck",
+            "The apple barrel",
+            "The crow's nest"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "Silver said he had earned his money honestly.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Who was going to sell the “Spyglass”?",
+          "answer": "Silver’s wife",
+          "options": [
+            "Silver’s wife",
+            "Silver",
+            "Dick",
+            "Israel Hands"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "The mutineers planned to kill Captain Smollett and his party.",
+          "answer": "True",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What was the signal from the lookout?",
+          "answer": "Land ho!",
+          "options": [
+            "Pieces of eight!",
+            "Land ho!",
+            "Sail ho!",
+            "All hands on deck!"
+          ]
+        }
+      ],
+      "description": "Quiz questions based on Chapter 11 of Treasure Island.",
+      "title": "Chapter 11: What I Heard in the Apple Barrel"
+    },
+    {
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "What did the captain and the doctor and the squire do to discuss the news?",
+          "answer": "Went to the cabin",
+          "options": [
+            "Went to the beach",
+            "Went to the cabin",
+            "Talked on the deck",
+            "Held a mutiny"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "Captain Smollett trusted the crew.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What was the name of the island?",
+          "answer": "Treasure Island",
+          "options": [
+            "Skeleton Island",
+            "Rum Island",
+            "Treasure Island",
+            "Spyglass Island"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "The doctor opened the paper with the map.",
+          "answer": "True",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Who did the doctor say was a remarkable man?",
+          "answer": "Silver",
+          "options": [
+            "Smollett",
+            "Trelawney",
+            "Silver",
+            "Hunter"
+          ]
+        }
+      ],
+      "description": "Quiz questions based on Chapter 12 of Treasure Island.",
+      "title": "Chapter 12: Council of War"
+    },
+    {
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "What did Jim hate about Treasure Island?",
+          "answer": "Its appearance",
+          "options": [
+            "Its appearance",
+            "The people there",
+            "The weather",
+            "The lack of treasure"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "The men were eager to reach Treasure Island.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Who was in command of Jim’s boat?",
+          "answer": "Job Anderson",
+          "options": [
+            "Long John Silver",
+            "Job Anderson",
+            "Israel Hands",
+            "Captain Smollett"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "Jim stayed in the boat and helped with the unloading.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What was the feeling among the men?",
+          "answer": "Discontent",
+          "options": [
+            "Happiness",
+            "Excitement",
+            "Discontent",
+            "Fear"
+          ]
+        }
+      ],
+      "description": "Quiz questions based on Chapter 13 of Treasure Island.",
+      "title": "Chapter 13: How I Began My Shore Adventure"
+    },
+    {
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Who did Jim see talking to Silver?",
+          "answer": "Tom",
+          "options": [
+            "Dick",
+            "Tom",
+            "Hands",
+            "Anderson"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "Tom did not agree with Silver's plan.",
+          "answer": "True",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What happened to Tom?",
+          "answer": "He was killed by Silver.",
+          "options": [
+            "He ran away.",
+            "He was captured.",
+            "He was killed by Silver.",
+            "He joined Silver"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "Jim tried to stop Silver.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What happened to Tom?",
+          "answer": "He was killed by Silver",
+          "options": [
+            "He got away",
+            "He was killed by Silver",
+            "He got lost",
+            "He joined Silver"
+          ]
+        }
+      ],
+      "description": "Quiz questions based on Chapter 14 of Treasure Island.",
+      "title": "Chapter 14: The First Blow"
+    },
+    {
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Who did Jim meet on the island?",
+          "answer": "Ben Gunn",
+          "options": [
+            "Israel Hands",
+            "Ben Gunn",
+            "Black Dog",
+            "Tom"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "Ben Gunn had been marooned on the island for a year.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What did Ben Gunn say he had been eating?",
+          "answer": "Goats, berries, and oysters",
+          "options": [
+            "Fish",
+            "Goats, berries, and oysters",
+            "Coconuts",
+            "Meat"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "Ben Gunn was a pirate.",
+          "answer": "True",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Who was Ben Gunn’s former captain?",
+          "answer": "Flint",
+          "options": [
+            "Silver",
+            "Smollett",
+            "Kidd",
+            "Flint"
+          ]
+        }
+      ],
+      "description": "Quiz questions based on Chapter 15 of Treasure Island.",
+      "title": "Chapter 15: The Man of the Island"
+    },
+    {
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Who was the first to go ashore?",
+          "answer": "Jim Hawkins",
+          "options": [
+            "Jim Hawkins",
+            "Dr. Livesey",
+            "Squire Trelawney",
+            "Captain Smollett"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "The men who went ashore were all trustworthy.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Where did the captain want to set up his camp?",
+          "answer": "The stockade",
+          "options": [
+            "The beach",
+            "The ship",
+            "The stockade",
+            "A cave"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "The captain was concerned about fresh water.",
+          "answer": "True",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Who was left on the ship to guard the ship?",
+          "answer": "Abraham Gray",
+          "options": [
+            "Abraham Gray",
+            "Job Anderson",
+            "Dick",
+            "Mr. Arrow"
+          ]
+        }
+      ],
+      "description": "Quiz questions based on Chapter 16 of Treasure Island.",
+      "title": "Chapter 16: How the Ship Was Abandoned"
+    },
+    {
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Who was in the lead boat?",
+          "answer": "Jim",
+          "options": [
+            "Jim",
+            "The Doctor",
+            "Captain Smollett",
+            "Silver"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "The Hispaniola was beached in a safe place.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What did Jim and the others have to leave behind?",
+          "answer": "Powder and provisions",
+          "options": [
+            "The ship",
+            "Their weapons",
+            "The treasure",
+            "Powder and provisions"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "The crew did not want to fight.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "How many good guns were left?",
+          "answer": "Two",
+          "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+          ]
+        }
+      ],
+      "description": "Quiz questions based on Chapter 17 of Treasure Island.",
+      "title": "Chapter 17: The Jolly Boat’s Last Trip"
+    },
+    {
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "How many of the men who landed were shot?",
+          "answer": "One",
+          "options": [
+            "One",
+            "Two",
+            "Three",
+            "None"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "Tom Redruth was killed.",
+          "answer": "True",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Who got the British flag up?",
+          "answer": "Captain Smollett",
+          "options": [
+            "Captain Smollett",
+            "Dr. Livesey",
+            "Jim",
+            "Silver"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "The captain was mortally wounded.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Who was the first to call for the doctor?",
+          "answer": "Jim Hawkins",
+          "options": [
+            "Captain Smollett",
+            "Jim Hawkins",
+            "Dr. Livesey",
+            "Squire"
+          ]
+        }
+      ],
+      "description": "Quiz questions based on Chapter 18 of Treasure Island.",
+      "title": "Chapter 18: End of the First Day’s Fighting"
+    },
+    {
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "What did Ben Gunn do when he saw the flag?",
+          "answer": "Stopped and sat down",
+          "options": [
+            "Ran away",
+            "Stopped and sat down",
+            "Continued running",
+            "Fought the pirates"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "The pirates were flying the Jolly Roger.",
+          "answer": "True",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What was the name of the hill with two peaks?",
+          "answer": "Spyglass",
+          "options": [
+            "Skeleton Island",
+            "Spyglass",
+            "The Cape of Woods",
+            "North Inlet"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "The doctor knew of Ben Gunn’s plan to take over the ship.",
+          "answer": "True",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What did the lookout yell?",
+          "answer": "Land ho!",
+          "options": [
+            "Man overboard!",
+            "Land ho!",
+            "All hands on deck!",
+            "Pieces of eight!"
+          ]
+        }
+      ],
+      "description": "Quiz questions based on Chapter 19 of Treasure Island.",
+      "title": "Chapter 19: The Garrison in the Stockade"
+    },
+    {
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Who came to make terms?",
+          "answer": "Silver",
+          "options": [
+            "The Captain",
+            "The Doctor",
+            "Silver",
+            "Ben Gunn"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "The captain agreed to Silver's terms.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What did Silver want?",
+          "answer": "The treasure map",
+          "options": [
+            "To join the crew",
+            "The treasure map",
+            "To leave the island",
+            "To be captain"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "The mutineers trusted Silver.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What did the doctor give to Silver?",
+          "answer": "The chart",
+          "options": [
+            "The chart",
+            "A weapon",
+            "The ship",
+            "Nothing"
+          ]
+        }
+      ],
+      "description": "Quiz questions based on Chapter 20 of Treasure Island.",
+      "title": "Chapter 20: Silver’s Embassy"
+    },
+    {
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "What was going on?",
+          "answer": "An attack",
+          "options": [
+            "A party",
+            "A peaceful discussion",
+            "An attack",
+            "A trade"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "The pirates were successful in the attack.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "How did the Doctor and the others take the attackers?",
+          "answer": "By firing on them",
+          "options": [
+            "By making a deal",
+            "By arguing",
+            "By firing on them",
+            "By running away"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "Jim was shot.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Who was badly wounded?",
+          "answer": "Captain Smollett",
+          "options": [
+            "Jim Hawkins",
+            "Captain Smollett",
+            "Dr. Livesey",
+            "Squire"
+          ]
+        }
+      ],
+      "description": "Quiz questions based on Chapter 21 of Treasure Island.",
+      "title": "Chapter 21: The Attack"
+    },
+    {
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "What had Jim decided to do?",
+          "answer": "To escape",
+          "options": [
+            "To escape",
+            "To join the pirates",
+            "To stay with his friends",
+            "To find the treasure"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "Jim told Silver that he planned to escape.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "How did Jim plan to escape?",
+          "answer": "In Ben Gunn's boat",
+          "options": [
+            "By swimming",
+            "In Ben Gunn's boat",
+            "On foot",
+            "In the Hispaniola's boat"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "Jim got away without any trouble.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What had the mutineers destroyed?",
+          "answer": "The jolly boat",
+          "options": [
+            "The food",
+            "The guns",
+            "The jolly boat",
+            "The cabin"
+          ]
+        }
+      ],
+      "description": "Quiz questions based on Chapter 22 of Treasure Island.",
+      "title": "Chapter 22: How I Began My Sea Adventure"
+    },
+    {
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "How did Jim use Ben Gunn’s coracle?",
+          "answer": "To reach the Hispaniola",
+          "options": [
+            "To reach the Hispaniola",
+            "To find Ben Gunn",
+            "To reach the stockade",
+            "To escape the island"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "Jim was able to easily steer the coracle.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What did Jim plan to do to the ship?",
+          "answer": "To scuttle it",
+          "options": [
+            "To scuttle it",
+            "To steal it",
+            "To sail it away",
+            "To sink it"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "Jim succeeded in scuttling the ship.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Why did the ship begin to turn?",
+          "answer": "The current",
+          "options": [
+            "The wind",
+            "The sails",
+            "The current",
+            "The boat"
+          ]
+        }
+      ],
+      "description": "Quiz questions based on Chapter 23 of Treasure Island.",
+      "title": "Chapter 23: The Ebb-Tide Runs"
+    },
+    {
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "What happened as Jim approached the ship?",
+          "answer": "He boarded the ship",
+          "options": [
+            "The ship sank.",
+            "He boarded the ship",
+            "He fell into the water.",
+            "He was captured"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "Jim was able to board the ship without any trouble.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What was flying from the ship’s peak?",
+          "answer": "The Jolly Roger",
+          "options": [
+            "The British flag",
+            "A white flag",
+            "The Jolly Roger",
+            "No flag"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "Jim was able to sail the ship.",
+          "answer": "False",
+          "options": [
+            "True",
+            "False"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Where did Jim end up at the end of the chapter?",
+          "answer": "On the ship",
+          "options": [
+            "On the island",
+            "On the beach",
+            "In the coracle",
+            "On the ship"
+          ]
+        }
+      ],
+      "description": "Quiz questions based on Chapter 24 of Treasure Island.",
+      "title": "Chapter 24: The Cruise of the Coracle"
+    }
+  ]
+}

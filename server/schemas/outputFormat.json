@@ -1,0 +1,57 @@
+{
+    "sections": [
+        {
+            "title": "Section 1",
+            "description": "This is a section about France.",
+            "questions": [
+                {
+                    "type": "multiple_choice",
+                    "question": "What is the capital of France?",
+                    "options": [
+                        "Paris",
+                        "London",
+                        "Berlin",
+                        "Madrid"
+                    ],
+                    "answer": "Paris"
+                },
+                {
+                    "type": "multiple_select",
+                    "question": "Which of the following are capitals of European countries?",
+                    "options": [
+                        "Paris",
+                        "London",
+                        "Berlin",
+                        "Madrid"
+                    ],
+                    "answer": [
+                        "Paris",
+                        "London",
+                        "Berlin",
+                        "Madrid"
+                    ]
+                },
+                {
+                    "type": "true_false",
+                    "question": "Is the Earth round?",
+                    "answer": true
+                },
+                {
+                    "type": "fill_in_blank",
+                    "question": "The capital of France is ____.",
+                    "answer": "Paris"
+                },
+                {
+                    "type": "short_answer",
+                    "question": "What is the capital of France?",
+                    "answer": "Paris"
+                },
+                {
+                    "type": "long_answer",
+                    "question": "Briefly describe the history of France?",
+                    "answer": "France is a country in Europe..."
+                }
+            ]
+        }
+    ]
+}

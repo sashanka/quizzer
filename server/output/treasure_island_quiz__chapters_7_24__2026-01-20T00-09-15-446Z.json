@@ -1,0 +1,447 @@
+{
+  "title": "Treasure Island Quiz (Chapters 7-24)",
+  "sections": [
+    {
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Where did Jim Hawkins and his father run the inn?",
+          "answer": "Admiral Benbow",
+          "options": [
+            "Spyglass",
+            "Admiral Benbow",
+            "Old Anchor Inn",
+            "Royal George"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What was Long John Silver's profession on the ship?",
+          "answer": "Cook",
+          "options": [
+            "Captain",
+            "Cook",
+            "Sailor",
+            "Mate"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What was the name of the ship they sailed on?",
+          "answer": "Hispaniola",
+          "options": [
+            "Admiral Benbow",
+            "Spyglass",
+            "Hispaniola",
+            "Walrus"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "The Squire hired Long John Silver to be the ship's captain.",
+          "answer": "False"
+        },
+        {
+          "type": "true_false",
+          "question": "The first mate, Mr. Arrow, was a reliable officer.",
+          "answer": "False"
+        }
+      ],
+      "description": "Questions from Chapters 7-8 of Treasure Island",
+      "title": "Chapters 7-8"
+    },
+    {
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "What did the captain, Captain Smollett, dislike about the voyage?",
+          "answer": "The men and the secret treasure hunt",
+          "options": [
+            "The ship",
+            "The voyage",
+            "The men and the secret treasure hunt",
+            "Long John Silver"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Where were the arms and powder stored on the ship?",
+          "answer": "Forehold",
+          "options": [
+            "Captain's cabin",
+            "Forehold",
+            "Cabin",
+            "Under the Deck"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What did the captain fear most?",
+          "answer": "Mutiny",
+          "options": [
+            "Storms",
+            "Mutiny",
+            "Pirates",
+            "Treasure"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "Captain Smollett was happy with the crew.",
+          "answer": "False"
+        },
+        {
+          "type": "true_false",
+          "question": "Mr. Arrow was eventually kicked off the ship.",
+          "answer": "True"
+        }
+      ],
+      "description": "Questions from Chapters 9-10 of Treasure Island",
+      "title": "Chapters 9-10"
+    },
+    {
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Where did Jim overhear the pirates' plans?",
+          "answer": "Apple Barrel",
+          "options": [
+            "Captain's Cabin",
+            "Apple Barrel",
+            "Forecastle",
+            "Crow's Nest"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What was the pirates' main objective on the voyage?",
+          "answer": "Treasure",
+          "options": [
+            "Adventure",
+            "Treasure",
+            "The ship",
+            "To find the doctor"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What was the black spot?",
+          "answer": "A summons for a meeting.",
+          "options": [
+            "A map of the island",
+            "A summons for a meeting.",
+            "A curse",
+            "A way to start a mutiny"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "Silver wanted to become the captain.",
+          "answer": "True"
+        },
+        {
+          "type": "true_false",
+          "question": "Jim was caught eavesdropping on their conversation by accident.",
+          "answer": "False"
+        }
+      ],
+      "description": "Questions from Chapters 11-12 of Treasure Island",
+      "title": "Chapters 11-12"
+    },
+    {
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "What was the name of the island where the treasure was hidden?",
+          "answer": "Treasure Island",
+          "options": [
+            "Skeleton Island",
+            "Treasure Island",
+            "Cape of the Woods",
+            "Spyglass Island"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What was the name of the high hill on the island?",
+          "answer": "Spyglass",
+          "options": [
+            "Skeleton Island",
+            "Spyglass",
+            "Cape of the Woods",
+            "High Hill"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Who did Jim meet on the island?",
+          "answer": "Ben Gunn",
+          "options": [
+            "Captain Smollett",
+            "Long John Silver",
+            "Ben Gunn",
+            "Black Dog"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "Jim escaped by jumping into the sea.",
+          "answer": "False"
+        },
+        {
+          "type": "true_false",
+          "question": "Ben Gunn had been marooned on the island for 3 years.",
+          "answer": "True"
+        }
+      ],
+      "description": "Questions from Chapters 13-15 of Treasure Island",
+      "title": "Chapters 13-15"
+    },
+    {
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "What did the crew of pirates want to do once they were on the island?",
+          "answer": "Find the treasure.",
+          "options": [
+            "Escape the island.",
+            "Find the treasure.",
+            "Kill Jim.",
+            "Explore the island."
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "How did the crew find themselves in the blockhouse?",
+          "answer": "After the battle on the beach.",
+          "options": [
+            "After the Hispaniola sunk",
+            "After the pirates were all caught.",
+            "After the battle on the beach.",
+            "The Doctor brought them."
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What happened to Tom Redruth?",
+          "answer": "He was killed.",
+          "options": [
+            "He escaped.",
+            "He was captured.",
+            "He went back to the ship.",
+            "He was killed."
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "Jim escaped from the group and ran from the pirates.",
+          "answer": "True"
+        },
+        {
+          "type": "true_false",
+          "question": "The doctor and the captain were friends.",
+          "answer": "True"
+        }
+      ],
+      "description": "Questions from Chapters 16-18 of Treasure Island",
+      "title": "Chapters 16-18"
+    },
+    {
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "What did Ben Gunn's presence provide the honest men?",
+          "answer": "An ally and information",
+          "options": [
+            "More men",
+            "Arms",
+            "An ally and information",
+            "Nothing"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Why did Jim leave the stockade?",
+          "answer": "To get Ben Gunn's boat.",
+          "options": [
+            "To find the treasure.",
+            "To get Ben Gunn's boat.",
+            "To go to the ship.",
+            "To go help the doctor."
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What did Jim see on the Hispaniola?",
+          "answer": "The Jolly Roger",
+          "options": [
+            "The treasure",
+            "The doctor",
+            "The captain.",
+            "The Jolly Roger"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "Jim and Ben Gunn were good friends.",
+          "answer": "True"
+        },
+        {
+          "type": "true_false",
+          "question": "After the battle, they decided to abandon the ship.",
+          "answer": "False"
+        }
+      ],
+      "description": "Questions from Chapters 19-20 of Treasure Island",
+      "title": "Chapters 19-20"
+    },
+    {
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "Who approached the stockade with a flag of truce?",
+          "answer": "Long John Silver",
+          "options": [
+            "Captain Smollett",
+            "Long John Silver",
+            "Ben Gunn",
+            "The doctor"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What deal did Long John Silver try to make with the captain?",
+          "answer": "To let them leave with the chart.",
+          "options": [
+            "To join forces.",
+            "To let them leave with the chart.",
+            "To give them the treasure.",
+            "To give up."
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What was the pirates' main concern?",
+          "answer": "To obtain the treasure",
+          "options": [
+            "To capture Jim.",
+            "To obtain the treasure",
+            "To repair the ship.",
+            "To kill Captain Smollett"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "The captain accepted Long John Silver's offer.",
+          "answer": "False"
+        },
+        {
+          "type": "true_false",
+          "question": "The captain and Jim were friends.",
+          "answer": "True"
+        }
+      ],
+      "description": "Questions from Chapters 20-21 of Treasure Island",
+      "title": "Chapters 20-21"
+    },
+    {
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "What happened to Mr. Arrow?",
+          "answer": "He disappeared overboard.",
+          "options": [
+            "He was captured.",
+            "He was killed by Silver",
+            "He disappeared overboard.",
+            "He was killed in the attack."
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "How did Jim get the ship?",
+          "answer": "He cut the ship's anchor line.",
+          "options": [
+            "He fought and defeated the pirates",
+            "He made a trade.",
+            "He cut the ship's anchor line.",
+            "He took it after Hands and his companion died."
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What happened to Israel Hands and his companion?",
+          "answer": "They killed each other.",
+          "options": [
+            "They escaped.",
+            "They were killed by Jim.",
+            "They killed each other.",
+            "They were arrested."
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "Jim tried to take control of the ship.",
+          "answer": "True"
+        },
+        {
+          "type": "true_false",
+          "question": "Jim agreed to work with Israel Hands to sail.",
+          "answer": "True"
+        }
+      ],
+      "description": "Questions from Chapters 22-23 of Treasure Island",
+      "title": "Chapters 22-23"
+    },
+    {
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "question": "What did Jim do after taking the Hispaniola?",
+          "answer": "He steered toward North Inlet.",
+          "options": [
+            "He steered toward Skeleton Island.",
+            "He went back to the stockade.",
+            "He steered toward North Inlet.",
+            "He set out to sea"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "Who was the ship's gunner?",
+          "answer": "Israel Hands",
+          "options": [
+            "Captain Smollett",
+            "Israel Hands",
+            "Black Dog",
+            "Jim"
+          ]
+        },
+        {
+          "type": "multiple_choice",
+          "question": "What was the name of the pirate flag?",
+          "answer": "The Jolly Roger",
+          "options": [
+            "The Union Jack",
+            "The Jolly Roger",
+            "The white flag",
+            "The Black Spot"
+          ]
+        },
+        {
+          "type": "true_false",
+          "question": "Jim sailed away from the island.",
+          "answer": "False"
+        },
+        {
+          "type": "true_false",
+          "question": "Jim tried to get to the stockade.",
+          "answer": "True"
+        }
+      ],
+      "description": "Questions from Chapters 24 of Treasure Island",
+      "title": "Chapter 24"
+    }
+  ],
+  "description": "A comprehensive quiz on Chapters 7-24 of Treasure Island."
+}
