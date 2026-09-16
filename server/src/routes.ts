@@ -18,6 +18,11 @@ const oauth2Client = new google.auth.OAuth2(
   process.env.GOOGLE_REDIRECT_URI
 );
 
+// Surface actionable server-side failures (expired Google auth, quota, etc.) to the
+// client instead of a generic message that sends the user digging through logs.
+const toClientError = (error: unknown, fallback: string): string =>
+  error instanceof Error && error.message ? error.message : fallback;
+
 router.get('/config', (req, res) => {
   res.json({ defaultPrompt: DEFAULT_SYSTEM_PROMPT });
 });
@@ -104,7 +109,7 @@ router.post('/generate-quiz', upload.single('file'), async (req, res) => {
 
   } catch (error) {
     console.error('Error processing request:', error);
-    res.status(500).json({ error: 'Failed to generate quiz' });
+    res.status(500).json({ error: toClientError(error, 'Failed to generate quiz') });
   }
 });
 
