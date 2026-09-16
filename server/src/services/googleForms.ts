@@ -206,9 +206,20 @@ export const createGoogleForm = async (quizJson: QuizJson) => {
     return createResponse.data.responderUri;
   } catch (error) {
     console.error('Error creating Google Form:', error);
-    // Return a dummy link if auth fails, so we can at least demonstrate the flow UI
+
+    // An expired or revoked refresh token surfaces as invalid_grant on the token
+    // refresh. Google expires refresh tokens after 7 days while the OAuth consent
+    // screen is still in "Testing", so this is the common case - say how to fix it.
+    const response = (error as { response?: { data?: { error?: string } } })?.response;
     const errorMessage = error instanceof Error ? error.message : String(error);
-    console.warn("Returning mock URL due to error:", errorMessage);
-    return "https://docs.google.com/forms/d/e/mock-form-id/viewform";
+    if (response?.data?.error === 'invalid_grant' || errorMessage.includes('invalid_grant')) {
+      throw new Error(
+        'Google authorization expired (invalid_grant). Re-authorize at ' +
+        'http://localhost:3000/api/auth/google, put the new GOOGLE_REFRESH_TOKEN in ' +
+        'server/.env, and restart. To stop this recurring every 7 days, publish the ' +
+        'OAuth consent screen to "In production".'
+      );
+    }
+    throw error;
   }
 };

@@ -62,7 +62,10 @@ export const QuizGenerator = () => {
       }
     } catch (err) {
       console.error(err);
-      setError('Failed to generate quiz. Please check backend logs/keys.');
+      const serverMessage = axios.isAxiosError(err)
+        ? (err.response?.data as { error?: string } | undefined)?.error
+        : undefined;
+      setError(serverMessage || 'Failed to generate quiz. Please check backend logs/keys.');
     } finally {
       setLoading(false);
     }
