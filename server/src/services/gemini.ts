@@ -6,7 +6,7 @@ import { OUTPUT_SCHEMA } from '../config/outputFormat';
 // Initialize Gemini
 const genAI = new GoogleGenerativeAI(GEMINI_API_KEY || '');
 const model = genAI.getGenerativeModel({
-  model: 'gemini-2.0-flash-lite-preview-02-05',
+  model: 'gemini-2.5-flash',
   generationConfig: {
     responseMimeType: 'application/json',
     responseSchema: OUTPUT_SCHEMA,
